@@ -14,8 +14,10 @@ var typed = new Typed(".name", {
         "NDT",
         "THTH",
         "LPT",
+        "HNAD",
         "NTH",
         "NTTB",
+        "NBL",
         "you alls"
 ],
     typeSpeed: 100,
